@@ -1,0 +1,11 @@
+{
+  "name": "leaflet.viewcenter",
+  "version": "0.0.1",
+  "description": "Centra mapa en coordenadas indicadas",
+  "main": "leaflet.viewcenter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
